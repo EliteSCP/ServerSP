@@ -18,8 +18,7 @@ tr:nth-child(even) {
   background-color: #17202A;
 }
 </style>
-<body>
-  <background-color: #171717>
+
 <h2>Benvenuto nella HOME PAGE della "wiki" di Elite SCP!</h2>
 
 <h2><b><p style="color:#FFD700;">BREVE PRESENTAZIONE</p></b></h2>
@@ -38,5 +37,3 @@ Varie sezione del Sito:
     <td><a href="https://elitescp.github.io/ServerRP/PluginList" target="_blank">Sezione II - Lista dei Plugin (ovviamente solo quelli pubblici)</a></td>
   </tr>
 </table>
-</background-color>
-</body>
