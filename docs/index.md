@@ -15,19 +15,14 @@
             padding: 8px;
         }
 
-        tr:nth-child(even) {
+        tr {
             background-color: #17202A;
         }
     </style>
 </head>
     
 <body style="background-color:#272726;">
-<h2>Benvenuto nella HOME PAGE della "wiki" di Elite SCP!</h2>
-
-<h2><b><p style="color:#FFD700;">BREVE PRESENTAZIONE</p></b></h2>
-<br>
-<h1><p style="color:gold;">------------------------------------------------------------------</p></h1>
-  
+<h4>Benvenuto nella HOME PAGE della "wiki" di Elite SCP!</h2>
   
 Varie sezione del Sito:
 <table style="width:100%">
