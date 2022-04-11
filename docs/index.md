@@ -1,39 +1,41 @@
 <body style="background-color:#272726;">
-    ## Welcome to GitHub Pages
+    <style>
+    h2 {text-align: center;}
+    h4 {text-align: center;}
+    bold {color:#800080;}
+    table {
+        font-family: Nunito;
+        border-collapse: collapse;
+        width: 100%;
+    }
 
-    You can use the [editor on GitHub](https://github.com/EliteSCP/ServerSP/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+    td, th {
+        border: 1px solid black;
+        text-align: left;
+        padding: 8px;
+    }
 
-    Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    tr:nth-child(even) {
+        background-color: #17202A;
+    }
+    </style>
 
-    ### Markdown
+<h2>Benvenuto nella HOME PAGE della "wiki" di Elite SCP!</h2>
 
-    Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-    ```markdown
-    Syntax highlighted code block
-
-    # Header 1
-    ## Header 2
-    ### Header 3
-
-    - Bulleted
-    - List
-
-    1. Numbered
-    2. List
-
-    **Bold** and _Italic_ and `Code` text
-
-    [Link](url) and ![Image](src)
-    ```
-
-    For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-    ### Jekyll Themes
-
-    Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings (https://github.com/EliteSCP/ServerSP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-    ### Support or Contact
-
-    Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support (https://support.github.com/contact) and we’ll help you sort it out.
-  </body>
+<h2><b><p style="color:#FFD700;">BREVE PRESENTAZIONE</p></b></h2>
+<br>
+<h1><p style="color:gold;">------------------------------------------------------------------</p></h1>
+  
+  
+Varie sezione del Sito:
+<table style="width:100%">
+  <tr>
+    <th>REGOLAMENTO</th>
+    <th>PLUGIN LIST</th>
+  </tr>
+  <tr>
+    <td><a href="https://elitescp.github.io/ServerRP/Regolamento" target="_blank">Regolamento</a></td>
+    <td><a href="https://elitescp.github.io/ServerRP/PluginList" target="_blank">Sezione II - Lista dei Plugin (ovviamente solo quelli pubblici)</a></td>
+  </tr>
+</table>
+</body>
