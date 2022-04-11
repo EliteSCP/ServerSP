@@ -1,14 +1,5 @@
 <head>
   <style>
-    table {
-      background-color: #000000;
-    }
-    th {
-      background-color: #696969;
-    }
-    td {
-     background-color: #808080;
-    }
   </style>
 </head>
 
