@@ -1,4 +1,15 @@
 <head>
+  <style>
+    table {
+      background-color: #000000;
+    }
+    th {
+      background-color: #696969;
+    }
+    td {
+     background-color: #808080;
+    }
+  </style>
 </head>
 
 <body style="background-color:#272726;">
@@ -7,7 +18,7 @@
   <table>
     <tr>
       <th>Nome:</th>
-      <th>Autore (se disponibile):</th>
+      <th>Autore:</th>
       <th>Descrizione:</th>
     </tr>
     <tr>
@@ -21,4 +32,4 @@
       <td>ouib09biuo4fb0948fh39nnu43of d fe 4f</td>
     </tr>
   </table>
-</body>t
+</body>
