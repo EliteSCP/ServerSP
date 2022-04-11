@@ -22,8 +22,8 @@
 </head>
     
 <body style="background-color:#272726;">
-<h4>Benvenuto nella HOME PAGE della "wiki" di Elite SCP!</h2>
-  
+<h4 style="color:#FFD700;">Benvenuto nella HOME PAGE della "wiki" di Elite SCP!</h4>
+<br>
 Varie sezione del Sito:
 <table style="width:100%">
   <tr>
