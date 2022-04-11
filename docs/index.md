@@ -1,4 +1,4 @@
-<body style="background-color:#FF6448;">
+<body style="background-color:#272726;">
     ## Welcome to GitHub Pages
 
     You can use the [editor on GitHub](https://github.com/EliteSCP/ServerSP/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
