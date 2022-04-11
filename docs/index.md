@@ -1,23 +1,25 @@
+<head>
     <style>
-    h2 {text-align: center;}
-    h4 {text-align: center;}
-    bold {color:#800080;}
-    table {
-        font-family: Nunito;
-        border-collapse: collapse;
-        width: 100%;
-    }
+        h2 {text-align: center;}
+        h4 {text-align: center;}
+        bold {color:#800080;}
+        table {
+            font-family: Nunito;
+            border-collapse: collapse;
+            width: 100%;
+        }
 
-    td, th {
-        border: 1px solid black;
-        text-align: left;
-        padding: 8px;
-    }
+            td, th {
+            border: 1px solid black;
+            text-align: left;
+            padding: 8px;
+        }
 
-    tr:nth-child(even) {
-        background-color: #17202A;
-    }
+        tr:nth-child(even) {
+            background-color: #17202A;
+        }
     </style>
+</head>
     
 <body style="background-color:#272726;">
 <h2>Benvenuto nella HOME PAGE della "wiki" di Elite SCP!</h2>
