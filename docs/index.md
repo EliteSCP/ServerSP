@@ -1,4 +1,3 @@
-<body style="background-color:#272726;">
     <style>
     h2 {text-align: center;}
     h4 {text-align: center;}
@@ -19,7 +18,8 @@
         background-color: #17202A;
     }
     </style>
-
+    
+<body style="background-color:#272726;">
 <h2>Benvenuto nella HOME PAGE della "wiki" di Elite SCP!</h2>
 
 <h2><b><p style="color:#FFD700;">BREVE PRESENTAZIONE</p></b></h2>
