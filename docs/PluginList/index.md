@@ -2,11 +2,11 @@
 <head>
   <style>
     tr:nth-child(even) {
-      background-color: rgba(150, 212, 212, 0.4);
+      background-color: rgba(10, 50, 50, 0.4);
     }
 
     th:nth-child(even),td:nth-child(even) {
-      background-color: rgba(150, 212, 212, 0.4);
+      background-color: rgba(35, 50, 75, 0.4);
     }
   </style>
 </head>
