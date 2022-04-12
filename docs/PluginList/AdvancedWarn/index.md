@@ -13,7 +13,6 @@
 
 <body style="background-color:#272726;">
   <h4 style="color:#FFD700;"><center>Sezione "PLUGINLIST/ADVANCEDWARN"</center></h4>
-  <p style="color:#F0FFFF;">PROVA</p>
   <table>
     <tr>
       <th style="width:30%">Comando</th>
